@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircleProgress">
+        <attr name="bg_circular_color" format="color|reference"/>
+        <attr name="bg_circular_width" format="reference|dimension"/>
+        <attr name="point_radius" format="reference|dimension"/>
+        <attr name="circle_progress_color" format="color|reference"/>
+        <attr name="progress_width" format="reference|dimension"/>
+        <attr name="start_angle" format="float"/>
+        <attr name="sweep_angle" format="float"/>
+        <attr name="circle_progress" format="integer"/>
+        <attr name="show_percent_text" format="boolean"/>
+        <attr name="show_percent" format="boolean"/>
+        <attr name="percent_text_size" format="dimension|reference"/>
+        <attr name="percent_text_color" format="color|reference"/>
+    </declare-styleable>
+</resources>
